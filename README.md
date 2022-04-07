@@ -1,6 +1,6 @@
 # DY.ID Electronics Store
 
-This was made for a university project, which was to make an elecctronics online store site with CRUD features using Laravel, Bootstrap, and MySQL for database.
+This was made for a university project, which was to make an electronics online store site with CRUD features using Laravel, Bootstrap, and MySQL for database.
 
 ## Features
 - Visitors, Members, and Admins can view product details.
